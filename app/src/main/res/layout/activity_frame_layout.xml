@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    0<ImageView
+    0<ImageView-
         android:src="@mipmap/ic_launcher"
         android:scaleType="fitCenter"
         android:layout_width="250px"
