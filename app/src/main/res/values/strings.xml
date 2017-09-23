@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica-2</string>
+    <string name="title_activity_linear_layout_horizontal">LinearLayoutHorizontalActivity</string>
+    <string name="title_activity_relative_layout">RelativeLayout</string>
+</resources>
